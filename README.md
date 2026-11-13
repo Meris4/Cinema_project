@@ -18,14 +18,17 @@ Can only reserve tickets through a seller (by phone or in person)
 Log in and reserve/cancel tickets
 View current reservations
 Must pay for the ticket at least 30 minutes before the projection by visiting the cinema
+
 💼 Seller
 Reserve and sell tickets to all customers
 Edit or cancel existing reservations
+
 🧑‍💼 Manager
 Register new sellers and managers
 Access internal system reports
+
 🔍 Features
-🔐 User registration, login, logout
+🔐 User registration, login, logout 
 🎞️ Movie and projection search
 🎟️ Ticket reservation & cancellation
 💺 Seat availability lookup
