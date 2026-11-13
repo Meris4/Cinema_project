@@ -1,0 +1,22 @@
+5245|A1|15:30|17:00|sreda|Titanik|500.0
+7886|A3|20:00|21:20|subota|Joker|350.0
+9346|A2|18:20|19:40|ponedeljak|Harry Potter|600.0
+4367|A2|14:00|16:00|nedelja|Vikings|400.0
+3434|A1|12:00|15:00|sreda, cetvrtak|The Originals|750.0
+3245|A3|18:40|21:00|subota|Manifest|600.0
+1245|A1|15:40|17:10|nedelja|Bela ladja|350.0
+9859|A2|20:30|22:30|subota|Titanik|400.0
+1873|A2|19:30|21:15|petak|Manifest|600.0
+3286|A3|10:00|11:30|utorak|Joker|700.0
+8995|A3|12:40|14:30|sreda|Titanik|650.0
+3467|A3|20:00|23:00|subota|Harry Potter|700.0
+7855|A3|17:00|19:00|petak|Titanik|500.0
+3982|A1|13:25|16:05|subota, nedelja|Manifest|400.0
+8939|A2|22:00|23:30|sreda|Harry Potter|400.0
+0936|A3|10:00|12:30|ponedeljak|Hacker|700.0
+5555|A3|14:00|17:00|nedelja|The Originals|400.0
+7777|A2|14:30|17:30|ponedeljak|Vikings|600.0
+1241|A3|21:00|23:00|utorak|Joker|300.0
+9435|A3|17:00|19:30|sreda, cetvrtak|Hacker|900.0
+0433|A2|21:30|23:40|petak, subota|Harry Potter|700.0
+6343|A1|13:15|17:00|nedelja|The Originals|500.0

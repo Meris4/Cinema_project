@@ -1,0 +1,11 @@
+Titanik|drama|195|James Cameron|Leonardo DiCaprio, Kate Winslet|SAD|1997
+Joker|drama|122|Todd Phillips|Joaquin Phoenix|SAD|2019
+Hacker|kriminalisticki|107|Michael Mann|Chris Hemsworth, Viola Davis|SAD|2015
+The Originals|fantazija|45|Julie Plec|Joseph Morgan, Daniel Gillies|SAD|2013
+Bela ladja|komedija|30|Miroslav Lekic|Nenad Jezdic|Srbija|1995
+La Casa de Papel|kriminalisticki|70|Alex Pina|Ursula Corbero, Alvaro Morte|Spanija|2017
+Vikings|drama|44|Michael Hirst|Travis Fimmel, Katheryn Winnick|Kanada|2013
+Manifest|misterija|43|Jeff Rake|Melissa Roxburgh, Josh Dallas|SAD|2018
+Rane|drama|90|Srdjan Dragojevic|Dusan Pekic, Milena Pavlovic|Srbija|1998
+Harry Potter|avantura, fantazija|152|Chris Columbus|Daniel Ridcliffe, Emma Watson|UK|2001
+The King's Speech|drama, istorija|119|Tom Hooper|Colin Firth, Geoffrey Rush|Australija|2010

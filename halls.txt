@@ -1,0 +1,3 @@
+A1|Sala_1|7|F
+A2|Sala_2|10|J
+A3|Sala_3|13|K

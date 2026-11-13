@@ -1,0 +1,13 @@
+meris_bilalovic|Meris123|Meris|Bilalovic|menadzer
+aleksa|aleksa2|Aleksa|Nenadovic|registrovan kupac
+lazar04|Lazar4444|Lazar|Jovic|prodavac
+nikola365|Nikola365|Nikola|Jokic|prodavac
+luka_doncic|Luka555|Luka|Doncic|registrovan kupac
+abc|1234567|ABC|DEF|prodavac
+stefan8|stefan555|Stefan|Jovic|registrovan kupac
+imenko_prezimic|abcabc123|Imenko|Prezimic|registrovan kupac
+belma_bilalovic|Belma123|Belmaa|Bilalovicc|prodavac
+zejnel_bilalovic|Zejnel123|Zejnel|Bilalovic|prodavac
+belma|belma2004|Belma|Bilalovic|registrovan kupac
+tarik_metovic|Tarik123|Tarik|Metovic|prodavac
+marko|Marko555|Marko|Tadic|registrovan kupac
